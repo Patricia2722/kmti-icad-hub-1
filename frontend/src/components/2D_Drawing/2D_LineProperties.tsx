@@ -252,14 +252,14 @@ const LinePropertiesLesson: React.FC<LinePropertiesLessonProps> = ({
                         </tr>
                         <tr>
                           <td>Text / Letter</td>
-                          <td>=</td>
+                          <td>-</td>
                           <td>Thin</td>
                           <td>0.15mm</td>
                           <td>Yellow (4)</td>
                         </tr>
                         <tr>
                           <td>Machining Symbol</td>
-                          <td>=</td>
+                          <td>-</td>
                           <td>Thin</td>
                           <td>0.1mm</td>
                           <td>Red (2)</td>
